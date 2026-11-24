@@ -1,1 +1,1 @@
-# RollaBall-Project
+This project I made the first semester of my senior year of high school, and was my first experience working with C# and Unity. This project was intended for us to get a good grasp of both C# and Unity, and was a simple game where you rolled a ball around an area avoiding enemies. I used this framework to make a Pac-Man inspired game where the enemies are the ghosts and the different pickups needed to win are the pellets. I don't have any of the code anymore, but these videos show how I iterated and added more things as I got better using Unity and C#.
